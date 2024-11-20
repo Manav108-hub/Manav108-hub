@@ -41,11 +41,14 @@
 
 <h3 align="left">📊 GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manav-adwani&theme=radical" alt="streak-stats" />
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manav-adwani&theme=radical" alt="Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manav-adwani&show_icons=true&theme=radical" alt="GitHub stats" />
+  <!-- Overall Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=manav-adwani&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
+
 
 ---
