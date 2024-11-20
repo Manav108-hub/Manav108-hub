@@ -39,16 +39,4 @@
 
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3>
-<p align="center">
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manav-adwani&theme=radical" alt="Streak Stats" />
-</p>
 
-<p align="center">
-  <!-- Overall Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=manav-adwani&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-
----
