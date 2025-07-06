@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manav Adwani</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1A73E8&width=500&lines=🚀+Full-Stack+Developer;💻+DevOps+Explorer;🌱+Lifelong+Learner" alt="Typing SVG" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=WEB+DEVELOPER;MACHINE+LEARNING;DEVOPS+ENTHUSIAST)](https://git.io/typing-svg)
 
 
 <p align="center">
