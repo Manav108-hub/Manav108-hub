@@ -2,15 +2,13 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=435&lines=WEB+DEVELOPER;MACHINE+LEARNING;DEVOPS+ENTHUSIAST" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&center=true&vCenter=true&width=435&lines=WEB+DEVELOPER;MACHINE+LEARNING;DEVOPS+ENTHUSIAST" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=manavadwani&label=Profile+Views&color=1A73E8&style=flat" alt="Profile views" />
 </p>
-
-
 
 ---
 
