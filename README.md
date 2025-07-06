@@ -1,14 +1,13 @@
 <h1 align="center">Hi 👋, I'm Manav Adwani</h1>
-<h3 align="center">🚀 Passionate Full-Stack Developer | DevOps Explorer | Lifelong Learner 🌱</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=1A73E8&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;DevOps+Explorer;Lifelong+Learner+🌱" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=1A73E8&center=true&vCenter=true&width=500&lines=🚀+Passionate+Full-Stack+Developer;💻+DevOps+Explorer;🌱+Lifelong+Learner" alt="Typing SVG" />
 </p>
-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=manavadwani&label=Profile+Views&color=0e75b6&style=flat" alt="manavadwani" />
 </p>
+
 
 ---
 
