@@ -17,7 +17,7 @@
 - 🔭 **Currently Working On:** React + FastAPI + Kubernetes projects  
 - ⚙️ **Exploring:** Docker, GitHub Actions, Cloud (AWS)  
 - 📬 **Email me:** [manavadwani86@gmail.com](mailto:manavadwani86@gmail.com)  
-- 🌐 **Portfolio/Projects:** Coming soon on [manavadwani.dev](https://manavadwani.dev)  
+- 🌐 **Portfolio/Projects:** :  [themanav.xyz](https://www.themanav.xyz/)  
 - 💬 **Ask me about:** Anything related to web dev, DevOps, or C++ fundamentals  
 
 ---
